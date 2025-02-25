@@ -1,22 +1,26 @@
 # ¡Hola, soy Santitub! 👋
 
-Soy un apasionado de la **ciberseguridad** y un entusiasta de la programación. Me encanta aprender y explorar nuevas tecnologías, especialmente en áreas de seguridad informática.
+Soy un apasionado de la **programación**, la **inteligencia artificial**, el **desarrollo web** y el **hacking ético**. Me encanta aprender y explorar nuevas tecnologías, especialmente en áreas de seguridad informática y automatización.
 
 ## 🌱 Actualmente estoy aprendiendo
-- **Ciberseguridad**: siempre buscando mejorar mis habilidades en este campo.
-- Explorando tecnologías como **Docker** para mejorar mis flujos de trabajo.
+- **Splunk**: explorando su potencial en análisis y monitoreo de datos.
+- **Docker**: perfeccionando mis habilidades en contenerización y despliegue de aplicaciones.
 
 ## 🔧 Mis herramientas y tecnologías
-- 🐍 **Python**: mi lenguaje principal para automatización y scripts.
+- 🐍 **Python**: mi lenguaje principal para automatización, scripting y proyectos de IA.
 - 🌐 **Frontend**: HTML, CSS, JavaScript.
-- 🛠️ **Markdown**: para documentar proyectos y escribir guías.
-- 🐳 **Docker**: para contenerización y despliegue de aplicaciones.
+- 🖥️ **Backend**: Node.js, Apache2.
+- 🐳 **Docker**: para contenerización y gestión de entornos de desarrollo.
+- 🛡️ **Ciberseguridad**: herramientas como **Burp Suite** para pruebas de penetración y análisis de vulnerabilidades.
+- 📊 **Splunk**: para análisis de datos y monitoreo en tiempo real.
+- 📑 **Markdown**: para documentar proyectos y escribir guías.
 
-## ⚡ Mi pasión: **Ciberseguridad**
-- Enfocado en aprender y practicar sobre vulnerabilidades, pruebas de penetración y análisis forense.
-- Me encanta entender cómo proteger sistemas y mantener la seguridad en entornos digitales.
+## ⚡ Mi pasión: **Ciberseguridad y IA**
+- Me dedico a aprender sobre vulnerabilidades y realizar pruebas de penetración.
+- Apasionado por la automatización de procesos y la creación de soluciones inteligentes a través de **IA**.
+- Busco constantemente mejorar mis habilidades en seguridad informática y desarrollo.
 
 ## 📫 ¿Cómo contactarme?
-- ¡Aún no tengo redes sociales activas, pero me encantaría conectar contigo a través de GitHub y compartir proyectos!
+- No tengo redes sociales activas, pero me encantaría conectar contigo aquí en GitHub y compartir proyectos.
 
 Gracias por visitar mi perfil 😄
