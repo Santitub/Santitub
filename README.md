@@ -20,7 +20,19 @@ Soy un apasionado de la **programación**, la **inteligencia artificial**, el **
 - Apasionado por la automatización de procesos y la creación de soluciones inteligentes a través de **IA**.
 - Busco constantemente mejorar mis habilidades en seguridad informática y desarrollo.
 
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Santitub&show_icons=true&locale=en" alt="Santitub GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Santitub&show_icons=true&locale=en&layout=compact" alt="Santitub Top Languages" />
+</p>
+
 ## 📫 ¿Cómo contactarme?
 - No tengo redes sociales activas, pero me encantaría conectar contigo aquí en GitHub y compartir proyectos.
 
-Gracias por visitar mi perfil 😄
+---
+
+¡Gracias por visitar mi perfil! 😄
