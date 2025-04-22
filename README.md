@@ -28,11 +28,14 @@ Soy un apasionado de la **programación**, la **inteligencia artificial**, el **
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santitub&show_icons=true&locale=en" alt="Santitub GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Santitub&show_icons=true&locale=en&layout=compact" 
+    alt="Santitub Top Languages" 
+    width="500" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Santitub&show_icons=true&locale=en&layout=compact" alt="Santitub Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Santitub&show_icons=true&locale=en" alt="Santitub GitHub Stats" />
 </p>
 
 ## 📫 ¿Cómo contactarme?
