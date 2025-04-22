@@ -20,6 +20,11 @@ Soy un apasionado de la **programación**, la **inteligencia artificial**, el **
 - Apasionado por la automatización de procesos y la creación de soluciones inteligentes a través de **IA**.
 - Busco constantemente mejorar mis habilidades en seguridad informática y desarrollo.
 
+## 📂 Proyectos destacados
+
+- 🔒 [**WPAT - WordPress Audit Toolkit**](https://github.com/Santitub/WPAT): herramienta de auditoría de seguridad para identificar vulnerabilidades en sitios web basados en WordPress, ideal para profesionales de ciberseguridad.
+- 🐳 [**dockerlabs-gui**](https://github.com/Santitub/dockerlabs-gui): interfaz gráfica para gestionar DockerLabs, un entorno de hacking ético con máquinas vulnerables, facilitando el despliegue y descarga de contenedores.
+
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
