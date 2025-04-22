@@ -15,7 +15,7 @@ Soy un apasionado de la **programación**, la **inteligencia artificial**, el **
 - 📊 **Splunk**: para análisis de datos y monitoreo en tiempo real.
 - 📑 **Markdown**: para documentar proyectos y escribir guías.
 
-## ⚡ Mi pasión: **Ciberseguridad y IA**
+## ⚡ Mi pasión: **Ciberseguridad e IA**
 - Me dedico a aprender sobre vulnerabilidades y realizar pruebas de penetración.
 - Apasionado por la automatización de procesos y la creación de soluciones inteligentes a través de **IA**.
 - Busco constantemente mejorar mis habilidades en seguridad informática y desarrollo.
@@ -34,10 +34,5 @@ Soy un apasionado de la **programación**, la **inteligencia artificial**, el **
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Santitub&show_icons=true&locale=en&layout=compact" alt="Santitub Top Languages" />
 </p>
-
-## 📫 ¿Cómo contactarme?
-- No tengo redes sociales activas, pero me encantaría conectar contigo aquí en GitHub y compartir proyectos.
-
----
 
 ¡Gracias por visitar mi perfil! 😄
