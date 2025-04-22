@@ -16,6 +16,10 @@ Soy un apasionado de la **programación**, la **inteligencia artificial**, el **
 - 🔒 [**WPAT - WordPress Audit Toolkit**](https://github.com/Santitub/WPAT): herramienta de auditoría de seguridad para identificar vulnerabilidades en sitios web basados en WordPress, ideal para profesionales de ciberseguridad.
 - 🐳 [**dockerlabs-gui**](https://github.com/Santitub/dockerlabs-gui): interfaz gráfica para gestionar DockerLabs, un entorno de hacking ético con máquinas vulnerables, facilitando el despliegue y descarga de contenedores.
 
+## 🌱 Actualmente estoy aprendiendo
+- **Splunk**: explorando su potencial en análisis y monitoreo de datos.
+- **Docker**: perfeccionando mis habilidades en contenerización y despliegue de aplicaciones.
+
 ## ⚡ Mi pasión: **Ciberseguridad e IA**
 - Me dedico a aprender sobre vulnerabilidades y realizar pruebas de penetración.
 - Apasionado por la automatización de procesos y la creación de soluciones inteligentes a través de **IA**.
@@ -30,5 +34,8 @@ Soy un apasionado de la **programación**, la **inteligencia artificial**, el **
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Santitub&show_icons=true&locale=en&layout=compact" alt="Santitub Top Languages" />
 </p>
+
+## 📫 ¿Cómo contactarme?
+- Puedes conectarme a través de ```santitub22@gmail.com```
 
 ¡Gracias por visitar mi perfil! 😄
