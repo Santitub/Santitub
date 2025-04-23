@@ -35,7 +35,7 @@ Soy un apasionado de la **programación**, la **inteligencia artificial**, el **
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santitub&show_icons=true&locale=en" alt="Santitub GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Santitub&show_icons=true&hide=commits" alt="Santitub GitHub Stats" />
 </p>
 
 ## 📫 ¿Cómo contactarme?
