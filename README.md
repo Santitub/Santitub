@@ -5,7 +5,7 @@ Soy un apasionado de la **programación**, la **inteligencia artificial**, el **
 ## 🔧 Mis herramientas y tecnologías
 - 🐍 **Python**: mi lenguaje principal para automatización, scripting y proyectos de IA.
 - 🌐 **Frontend**: HTML, CSS, JavaScript.
-- 🖥️ **Backend**: Node.js, Apache2.
+- 🖥️ **Backend**: Apache2.
 - 🐳 **Docker**: para contenerización y gestión de entornos de desarrollo.
 - 🛡️ **Ciberseguridad**: herramientas como **Burp Suite** para pruebas de penetración y análisis de vulnerabilidades.
 - 📊 **Splunk**: para análisis de datos y monitoreo en tiempo real.
