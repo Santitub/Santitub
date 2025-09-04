@@ -27,6 +27,10 @@ Soy un apasionado de la **programación**, la **inteligencia artificial**, el **
 
 ## 📈 Estadísticas de GitHub
 
+<p style="font-size: 18px;">
+  <img src="https://komarev.com/ghpvc/?username=Santitub&color=green" alt="Visitas a mi perfil" style="height: 30px;">
+</p>
+
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Santitub&show_icons=true&locale=en&layout=compact" 
